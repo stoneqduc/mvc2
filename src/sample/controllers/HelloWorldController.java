@@ -12,7 +12,7 @@ import sample.models.HelloWorldModel;
 /**
  * Servlet implementation class HelloWorldController
  */
-@WebServlet("/HelloWorld")
+@WebServlet("/hw")
 public class HelloWorldController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
